@@ -272,7 +272,7 @@ section{
 }
 
 .row-header{
-  scroll-margin-top: 50%;
+  scroll-margin-top: 50%6;
 }
 
 .hidden h1{
@@ -658,8 +658,9 @@ h3{
         padding: 10px;
     }
     div.webpage{
-      width: 90%;
+      width: 80%;
       height: 100%;
+      
     }
     h1.hero{
       font-size: 40px;
