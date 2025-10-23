@@ -692,7 +692,7 @@ h3{
     }
     
     div.hidden{
-      height: 105%;
+      height: 110%;
       margin-right: 5%;
       text-align: center;
       
@@ -703,7 +703,7 @@ h3{
     }
 
     div.cont{
-      margin-top:60 
+      margin-top:40%; 
     }
     section.section3{
       margin-top: 230%;
@@ -712,7 +712,7 @@ h3{
     }
 
     div.container{
-        margin-top: -30%;
+        margin-top: -40%;
     }
     .footer-page {
         flex-direction: column;
