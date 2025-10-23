@@ -145,7 +145,7 @@ body{
     font-family: 'Courier New', Courier, monospace;
     font-weight: 500;
     margin-top: 13px;
-
+  
 }
 
 #para2 a{
@@ -572,7 +572,7 @@ h3{
 .Testimonialcard {
   background: rgba(255, 255, 255, 0.05);
   border-radius: 15px;
-  box-shadow: 0 0 20px rgba(0, 182, 238, 0.5);
+  box-shadow: whitesmoke 4px 4px;
   color: rgba(255, 255, 255, 0.9);
   padding: 25px;
   width: 45%;
@@ -691,7 +691,7 @@ h3{
     }
     
     div.hidden{
-      height: 90%;
+      height: 80%;
       padding-bottom: 50%;
       text-align: center;
       
@@ -711,7 +711,7 @@ h3{
     }
 
     div.container{
-        margin-top: 350%;
+        margin-top: 300%;
     }
     .footer-page {
         flex-direction: column;
