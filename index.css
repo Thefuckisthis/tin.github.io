@@ -691,8 +691,8 @@ h3{
     }
     
     div.hidden{
-      height: 80%;
-      padding-bottom: 50%;
+      height: 100%;
+      
       text-align: center;
       
     }
@@ -702,7 +702,7 @@ h3{
     }
 
     div.cont{
-      margin-top: 80%
+      margin-top:60 %
     }
     section.section3{
       margin-top: 230%;
@@ -711,13 +711,13 @@ h3{
     }
 
     div.container{
-        margin-top: 300%;
+        margin-top: -30%;
     }
     .footer-page {
         flex-direction: column;
         text-align: center; 
         padding: 20px 15px; 
-        margin-top: 350%;
+        margin-top: 250%;
     }
 
     .footer-social,
@@ -756,7 +756,7 @@ h3{
     align-items: center;
     padding-inline: 0;
     gap: 25px;
-    margin-top: 200%;
+    margin-top: 150%;
   }
 
   #Testimonial h3 {
