@@ -594,6 +594,7 @@ h3{
 
 }
 
+
 .details {
   display: flex;
   align-items: center;
@@ -691,8 +692,8 @@ h3{
     }
     
     div.hidden{
-      height: 100%;
-      
+      height: 105%;
+      margin-right: 5%;
       text-align: center;
       
     }
@@ -702,7 +703,7 @@ h3{
     }
 
     div.cont{
-      margin-top:60 %
+      margin-top:60 
     }
     section.section3{
       margin-top: 230%;
